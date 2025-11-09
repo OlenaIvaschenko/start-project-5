@@ -10,8 +10,8 @@ export default function TravellersStoriesItem({ item }: Props) {
   return (
     <div className={css.storyCard}>
       <Image
-        src="https://ftp.goit.study/img/harmoniq/users/6881563901add19ee16fd009.webp"
-        alt="User Avatar"
+        src="https://isorepublic.com/wp-content/uploads/2018/11/shotstash_0078-1-1100x734.jpg"
+        alt="Photo of place"
         width={335}
         height={223}
         className={css.avatar}
